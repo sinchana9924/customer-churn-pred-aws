@@ -68,14 +68,7 @@ Customer attrition leads to significant revenue loss for businesses. Identifying
 ## Future Scope  
 - **Integrate real-time predictions** using AWS Lambda or Step Functions.  
 - Extend model to **other business domains and datasets**.  
-- Experiment with **deep learning models** for improved accuracy.  
-
-## Team  
-- **Swathi Baskaran** – Data Engineer  
-- **Sivani Dronamraju** – Manager/Data Scientist  
-- **Ayushi Prasad** – ML Engineer  
-- **Sinchana Gupta** – Data Analyst  
-- **Jacqueline Yu** – ML Engineer  
+- Experiment with **deep learning models** for improved accuracy.   
 
 ## References  
 - [Kaggle Dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)  
